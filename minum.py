@@ -1,0 +1,2 @@
+def minum():
+    print("Minum")
